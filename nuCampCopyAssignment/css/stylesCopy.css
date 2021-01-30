@@ -1,0 +1,92 @@
+/*MardiGras Build*/
+
+body {
+  font-family: "Apple Chancery", sans-serif;
+  background-color: #6033BB;
+}
+
+h1, h2, h3 {
+  font-family: "Apple Chancery", cursive;
+}
+
+p {
+  color: #eeff00;
+}
+
+.h3, h3 {
+  color: #ff8f0f;
+}
+
+h2 {
+  color: #33bb70;
+}
+
+header h2 {
+  color: #dc2cffc0;
+}
+
+footer {
+  background-image: linear-gradient(#ffd859d8,rgba(221, 85, 255, 0.74));
+  padding: 30px 0;
+  margin-bottom: 3em;
+  border-radius: 10em;
+}
+
+.jumbotron {
+  margin: 0;
+  padding: 30px;
+  background-image: linear-gradient(to right, #00ff22,#eeff00,#6033BB);
+  color:#dc2cffc0;
+}
+
+.row-content {
+  padding: 50px, 0;
+  border-bottom: 1px, ridge;
+  min-height: 200px;
+}
+
+.navbar {
+  background-color: #ff8f0f;
+}
+
+.carousel-caption {
+  background-color: rgba(0, 0, 0, 0.5);
+
+}
+
+.carousel {
+  border: solid #d8e436;
+}
+
+.site-footer{
+  background-image: linear-gradient(to right, #00ff22,#eeff00,#6033BB);
+  padding: 30px 0;
+  margin-bottom: 3em;
+  border-radius: 10em;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+.tab-content {
+  border: 1px solid #DDD;
+  border-top: none;
+  padding: 10px;
+}
+
+.modal-header {
+  background-image: linear-gradient(to right, #fbff00,#c5bb30,#b12412);
+}
+
+.modal-title {
+  color: #d30e0e;
+}
+
+a {
+  color:#000000;
+}
+
+.btn-link {
+  color:#ffffff;
+}
